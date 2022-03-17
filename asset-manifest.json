@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d4c9a803.css",
+    "main.js": "/portfolio/static/js/main.cd7d138a.js",
+    "static/js/787.0299b6c5.chunk.js": "/portfolio/static/js/787.0299b6c5.chunk.js",
+    "static/media/web-dev-service.png": "/portfolio/static/media/web-dev-service.ac8ec4adb09917b0ec30.png",
+    "static/media/mobile-dev-service.png": "/portfolio/static/media/mobile-dev-service.fe0bfe0267db7042066f.png",
+    "static/media/uir_stuff_logo.png": "/portfolio/static/media/uir_stuff_logo.108c036d047189045127.png",
+    "static/media/raed_logo.png": "/portfolio/static/media/raed_logo.7d821e30579695539ed5.png",
+    "static/media/uir_alumni_logo.png": "/portfolio/static/media/uir_alumni_logo.03271299a6e95657ab46.png",
+    "static/media/ui-ux-service.png": "/portfolio/static/media/ui-ux-service.4327f17fb6f73727175d.png",
+    "static/media/newgps_logo.png": "/portfolio/static/media/newgps_logo.21b925fbf5a2b29abe5b.png",
+    "static/media/herbo_logo.png": "/portfolio/static/media/herbo_logo.a8b0a5c5b5fb6d62af5c.png",
+    "static/media/myuir_logo.png": "/portfolio/static/media/myuir_logo.d90a7529e46bdb88ca5b.png",
+    "static/media/elias_cleaners_logo.png": "/portfolio/static/media/elias_cleaners_logo.5341eef0b717b1919a06.png",
+    "static/media/mrbricolage_logo.png": "/portfolio/static/media/mrbricolage_logo.110a91cf189fe8db41bf.png",
+    "static/media/geo_telematic_logo.png": "/portfolio/static/media/geo_telematic_logo.eb0f0bfde49b02ce3b08.png",
+    "static/media/casastore_logo.png": "/portfolio/static/media/casastore_logo.eb4a81fad230f5c5a49b.png",
+    "static/media/theme-icon-dark.png": "/portfolio/static/media/theme-icon-dark.ea3b1511bbdb7192a98b.png",
+    "static/media/theme-icon-light.png": "/portfolio/static/media/theme-icon-light.f201f78449382a5d70dd.png",
+    "index.html": "/portfolio/index.html",
+    "main.d4c9a803.css.map": "/portfolio/static/css/main.d4c9a803.css.map",
+    "main.cd7d138a.js.map": "/portfolio/static/js/main.cd7d138a.js.map",
+    "787.0299b6c5.chunk.js.map": "/portfolio/static/js/787.0299b6c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c9a803.css",
+    "static/js/main.cd7d138a.js"
+  ]
+}
